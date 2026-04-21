@@ -46,8 +46,7 @@ This project focuses on analyzing food delivery data using Power BI to extract m
 ---
 
 ## 📷 Dashboard Preview
-
-(Add your screenshot here)
+<img width="1218" height="687" alt="Food Delivery Data Analysis Dashboaed Power BI" src="https://github.com/user-attachments/assets/a89b1f24-3feb-4432-8880-fcae45d35422" />
 
 ---
 
